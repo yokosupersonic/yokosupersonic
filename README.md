@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Introduction
 
 **yokosupersonic/yokosupersonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ❤ 
+- ❤❤❤❤❤❤❤
 
+## Projects
+
+- [geemap](https://geemap.org)
+- [leafmap](https://leafmap.org)
+
+
+## Demos
+
+This is a funny face!
+
+![](https://i.gifer.com/embedded/download/4tuB.gif)
