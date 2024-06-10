@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 This is a funny face!
 
 ![](https://i.gifer.com/embedded/download/4tuB.gif)
+
+Check out my [bilibili channel](https://space.bilibili.com/3432157?spm_id_from=333.1007.0.0).
+
